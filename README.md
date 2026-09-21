@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**2** solved · 1 problems · 0 labs · 1 math
+**3** solved · 2 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Build Vocabulary from Token List](https://www.deep-ml.com/problems/941) | easy | 2026-09-21 | [solution](problems/0941-build-vocabulary-from-token-list) |
 | [Regex-Based Text Tokenizer](https://www.deep-ml.com/problems/940) | easy | 2026-09-21 | [solution](problems/0940-regex-based-text-tokenizer) |
 
 ## Math
